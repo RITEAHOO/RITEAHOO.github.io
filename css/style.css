@@ -90,7 +90,7 @@ header .wrap-header{background: #fff;padding: 60px 0 0;border-top: 5px solid #FF
 .content-box.box-style-1{background: #F1F1E6;}
 .content-box.box-style-2{background: url(../images/box-style-2.jpg) no-repeat fixed 100% 100%;}
 /* .content-box.box-style-3{background: url(../images/box-style-3.jpg) no-repeat fixed center center;} */
-.content-box.box-style-3{background: url(../images/box-style-3.jpg) no-repeat fixed left top;}
+.content-box.box-style-3{background: url(../images/box-style-2.jpg) no-repeat fixed left top;}
 
 .content-box .item{padding: 10px 0;}
 .content-box .item:hover .item-content{color: #fff;-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;}

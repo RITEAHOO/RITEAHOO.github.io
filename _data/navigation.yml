@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Home"
+    url: /splash-page/
+  - title: "Posts"
+    url: /categories/
+  # - title: "Develop"
+  #   url: https://yomyomiii.github.io/minimal-mistakes/docs/quick-start-guide/

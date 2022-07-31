@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Li Taihu"
+name                     : "Taihu Li"
 description              : "AI Engineer / researcher"
 # url                      : "https://yomyomiii.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
